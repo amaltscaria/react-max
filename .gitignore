@@ -1,0 +1,19 @@
+# Ignore all node_modules directories at any depth
+**/node_modules/
+
+# Ignore all build directories at any depth
+**/build/
+
+# Ignore all log files at any depth
+**/*.log
+
+# Ignore all .env files at any depth
+**/.env
+
+# Ignore all package-lock.json or yarn.lock files at any depth
+**/package-lock.json
+**/yarn.lock
+
+# Ignore specific OS or system files at any depth
+**/.DS_Store
+**/Thumbs.db
