@@ -42,6 +42,7 @@ function App() {
             <TabButton>Props</TabButton>
             <TabButton>State</TabButton>
           </menu>
+          
         </section>
       </main>
     </div>
